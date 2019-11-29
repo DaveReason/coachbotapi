@@ -2,7 +2,10 @@
   "set_attributes":
     {
       "numberdonations": "30",
-      "donationamount": "3472"
+      "donationamount": "3472",
+      "position": "22nd",
+      "difference": "45"
     }
+  
  
 }
