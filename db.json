@@ -18,30 +18,43 @@
       },
       "lessonplan":[
          {
-            "Audio":{
-               "synopsis":[
-                  "At home your sister wakes you up to get on with your daily chores",
-                  "She and your dad are preparing to go hunting after days with no food",
-                  "Dad tells you to stay home and do a cave painting for good luck on the hunt",
-                  "You demand to join the hunt group. Dad gives in but says your dog, Spark, must stay at home"
-               ],
-               "audiourl":"https://someawslink.m4a",
-               "looping":false,
-               "length":"00:23:35"
-            }
+            "type":"audio",
+            "name":"audio1",
+            "synopsis":[
+               "At home your sister wakes you up to get on with your daily chores",
+               "She and your dad are preparing to go hunting after days with no food",
+               "Dad tells you to stay home and do a cave painting for good luck on the hunt",
+               "You demand to join the hunt group. Dad gives in but says your dog, Spark, must stay at home"
+            ],
+            "audiourl":"https://npp-bucket121749-nppdev.s3.eu-west-2.amazonaws.com/chapter1.mp3",
+            "looping":false,
+            "length":"00:23:35"
          },
          {
-            "discussion":{
-               "instructions":"Time to discuss what the children have heard. Look at the discussion points in the guide you've printed out",
-               "discussionPoints":[
-                  "How did Stone Age people decorate their homes?",
-                  "How comfortable was their everyday life?",
-                  "Should we be allowed to hunt?",
-                  "How do you think Stone Age people got the stones there?"
-               ],
-               "audiourl":"https://someawslink.m4a",
-               "looping":false
-            }
+            "type":"audio",
+            "name":"audio2",
+            "synopsis":[
+               "At home your sister wakes you up to get on with your daily chores",
+               "She and your dad are preparing to go hunting after days with no food",
+               "Dad tells you to stay home and do a cave painting for good luck on the hunt",
+               "You demand to join the hunt group. Dad gives in but says your dog, Spark, must stay at home"
+            ],
+            "audiourl":"https://npp-bucket121749-nppdev.s3.eu-west-2.amazonaws.com/chapter2.mp3",
+            "looping":false,
+            "length":"00:23:35"
+         },
+         {
+            "type":"discussion",
+            "name":"discussion1",
+            "instructions":"Time to discuss what the children have heard. Look at the discussion points in the guide you've printed out",
+            "discussionPoints":[
+               "How did Stone Age people decorate their homes?",
+               "How comfortable was their everyday life?",
+               "Should we be allowed to hunt?",
+               "How do you think Stone Age people got the stones there?"
+            ],
+            "audiourl":"https://someawslink.m4a",
+            "looping":false
          }
       ],
       "resources":{
