@@ -19,7 +19,7 @@
       "lessonplan":[
          {
             "type":"audio",
-            "name":"audio1",
+            "name":"chapter1.mp3",
             "synopsis":[
                "At home your sister wakes you up to get on with your daily chores",
                "She and your dad are preparing to go hunting after days with no food",
@@ -32,7 +32,7 @@
          },
          {
             "type":"audio",
-            "name":"audio2",
+            "name":"chapter2.mp3",
             "synopsis":[
                "At home your sister wakes you up to get on with your daily chores",
                "She and your dad are preparing to go hunting after days with no food",
