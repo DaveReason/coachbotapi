@@ -1,78 +1,41 @@
-{
-   "experience":{
-      "info":{
-         "name":"Stone Age",
-         "category":"Ancient History",
-         "keystage":"ks2",
-         "agerange":"7-11 years",
-         "length":"45-50 mins",
-         "description":"After weeks going hungry in your stone house, you’re desperate to join your dad and sister, Etta, out on the hunt. But the hunt party is attacked by wolves, and in the confusion you and Etta get lost and discover a house made of wood. What other new technologies do these people possess, and how will they lead you back to your dad?",
-         "setupInfo":{
-            "startingPositions":"Lie down in your own space on the floor",
-            "learningIntentions":[
-               "Life in Stone Age Britain - homes,hunting,flint mining, making fires",
-               "Tools & Weapons for hunting",
-               "Progression from Mesolithic to Neolithic period"
-            ]
-         }
-      },
-      "lessonplan":[
-         {
-            "type":"audio",
-            "name":"chapter1.mp3",
-            "synopsis":[
-               "At home your sister wakes you up to get on with your daily chores",
-               "She and your dad are preparing to go hunting after days with no food",
-               "Dad tells you to stay home and do a cave painting for good luck on the hunt",
-               "You demand to join the hunt group. Dad gives in but says your dog, Spark, must stay at home"
-            ],
-            "audiourl":"https://npp-bucket121749-nppdev.s3.eu-west-2.amazonaws.com/chapter1.mp3",
-            "looping":false,
-            "length":"00:23:35"
+            "id":"greeksyear3",
+            "name":"Ancient Greeks Y3",
+            "experienceId":"greeksyear3exprience"
          },
          {
-            "type":"audio",
-            "name":"chapter2.mp3",
-            "synopsis":[
-               "At home your sister wakes you up to get on with your daily chores",
-               "She and your dad are preparing to go hunting after days with no food",
-               "Dad tells you to stay home and do a cave painting for good luck on the hunt",
-               "You demand to join the hunt group. Dad gives in but says your dog, Spark, must stay at home"
-            ],
-            "audiourl":"https://npp-bucket121749-nppdev.s3.eu-west-2.amazonaws.com/chapter2.mp3",
-            "looping":false,
-            "length":"00:23:35"
-         },
-         {
-            "type":"discussion",
-            "name":"discussion1",
-            "instructions":"Time to discuss what the children have heard. Look at the discussion points in the guide you've printed out",
-            "discussionPoints":[
-               "How did Stone Age people decorate their homes?",
-               "How comfortable was their everyday life?",
-               "Should we be allowed to hunt?",
-               "How do you think Stone Age people got the stones there?"
-            ],
-            "audiourl":"https://someawslink.m4a",
-            "looping":false
+            "id":"cavepeople3",
+            "name":"Cave People Y3",
+            "experienceId":"cavepeopleyear3experience"
          }
       ],
-      "resources":{
-         "photostoryboard":{
-            "description":"Order the images from the story",
-            "fileurl":"http://someurl.com"
+      "geography3":[
+         {
+            "id":"Platessyear3",
+            "name":"Plates Y3",
+            "experienceId":"platesyear3experience"
          },
-         "literacy resources":{
-            "fileurls":[
-               "http://someurl.com",
-               "http://someurl.com",
-               "http://someurl.com"
-            ]
+         {
+            "id":"afriayear3",
+            "name":"Africa Y3",
+            "experienceId":"afriayear3experience"
          },
-         "quiz":{
-            "description":"Recap the key facts",
-            "fileurl":"http://someurl.com"
+         {
+            "id":"incasyear3",
+            "name":"The Incas Y3",
+            "experienceId":"incasyear3experience"
          }
-      }
+      ],
+      "mathsyear3":[
+         {
+            "id":"trigyear3",
+            "name":"Trigonometry Y3",
+            "experienceId":"trigyear3experience"
+         },
+         {
+            "id":"diffyear3",
+            "name":"Differentials Y3",
+            "experienceId":"diffsyear3exprience"
+         }
+      ]
    }
 }
