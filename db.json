@@ -9,9 +9,10 @@
                "name":"History year 1",
                "experiences":[
                   {
-                     "id":"ww2year1",
-                     "name":"World War II Y1",
-                     "experienceId":"ww2year1experience"
+                     "id":"cavepeople1",
+                     "name":"Cave People Y1",
+                     "filename":"npp-stoneage-128.mp3",
+                     "streamUrl":"https://d27ve52xk2ojxn.cloudfront.net/npp-stoneage-128.mp3"
                   },
                   {
                      "id":"romansyear1",
@@ -19,8 +20,8 @@
                      "experienceId":"romansyear1exprience"
                   },
                   {
-                     "id":"cavepeople1",
-                     "name":"Cave People Y1",
+                     "id":"ww2year1experience",
+                     "name":"World War II Y1",
                      "experienceId":"cavepeopleyear1experience"
                   }
                ]
