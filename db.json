@@ -160,14 +160,14 @@
       "lessonplan":[
          {
             "type":"audio",
-            "name":"audio1",
+            "name":"npp-stoneage-128",
             "synopsis":[
                "At home your sister wakes you up to get on with your daily chores",
                "She and your dad are preparing to go hunting after days with no food",
                "Dad tells you to stay home and do a cave painting for good luck on the hunt",
                "You demand to join the hunt group. Dad gives in but says your dog, Spark, must stay at home"
             ],
-            "audiourl":"https://someawslink.m4a",
+            "audiourl":"https://d27ve52xk2ojxn.cloudfront.net/npp-stoneage-128.mp3",
             "looping":false,
             "skippable":false,
             "length":"00:23:35"
