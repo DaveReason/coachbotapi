@@ -162,7 +162,7 @@
       "playlist":[
          {
             "type":"audio",
-            "name":"npp-stoneage-128",
+            "name":"Chapter 1",
             "synopsis":[
                "At home your sister wakes you up to get on with your daily chores",
                "She and your dad are preparing to go hunting after days with no food",
@@ -176,7 +176,7 @@
          },
          {
             "type":"discussion",
-            "name":"discussion1",
+            "name":"Workbook",
             "instructions":"Time to discuss what the children have heard. Look at the discussion points in the guide you've printed out",
             "discussionPoints":[
                "How did Stone Age people decorate their homes?",
@@ -184,12 +184,12 @@
                "Should we be allowed to hunt?",
                "How do you think Stone Age people got the stones there?"
             ],
-            "audiourl":"https://d27ve52xk2ojxn.cloudfront.net/waiting.mp3",
+            "audiourl":"https://d27ve52xk2ojxn.cloudfront.net/workbook.mp3",
             "looping":true
          },
          {
             "type":"audio",
-            "name":"audio2",
+            "name":"Chapter 2",
             "synopsis":[
                "At home your sister wakes you up to get on with your daily chores",
                "She and your dad are preparing to go hunting after days with no food",
