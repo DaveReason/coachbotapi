@@ -145,6 +145,7 @@
    "cavepeople1exprience":{
       "info":{
          "name":"Stone Age",
+         "id":"cavepeople1",
          "category":"Ancient History",
          "keystage":"ks2",
          "agerange":"7-11 years",
