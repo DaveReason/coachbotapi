@@ -11,17 +11,17 @@
                   "experiences":[
                      {
                         "id":"cavepeople1",
-                        "name":"Cave People Y1",
+                        "name":"Cave People Y1"
                        
                      },
                      {
                         "id":"romansyear1",
-                        "name":"The Romans Y1",
+                        "name":"The Romans Y1"
                         
                      },
                      {
                         "id":"ww2year1experience",
-                        "name":"World War II Y1",
+                        "name":"World War II Y1"
                         
                      }
                   ]
@@ -32,17 +32,17 @@
                   "experiences":[
                      {
                         "id":"glaciersyear1",
-                        "name":"Glaciers ",
+                        "name":"Glaciers "
                         
                      },
                      {
                         "id":"afriayear1",
-                        "name":"Africa Y1",
+                        "name":"Africa Y1"
                         
                      },
                      {
                         "id":"incasyear1",
-                        "name":"The Incas Y1",
+                        "name":"The Incas Y1"
                        
                      }
                   ]
@@ -53,12 +53,12 @@
                   "experiences":[
                      {
                         "id":"additionyear1",
-                        "name":"Addition Y1",
+                        "name":"Addition Y1"
                         
                      },
                      {
                         "id":"fractionsyear1",
-                        "name":"Fractions Y1",
+                        "name":"Fractions Y1"
                         
                      }
                   ]
@@ -75,17 +75,17 @@
                   "experiences":[
                      {
                         "id":"ww2year2",
-                        "name":"World War II Y2",
+                        "name":"World War II Y2"
                        
                      },
                      {
                         "id":"romansyear2",
-                        "name":"The Romans Y2",
+                        "name":"The Romans Y2"
                         
                      },
                      {
                         "id":"cavepeople2",
-                        "name":"Cave People Y2",
+                        "name":"Cave People Y2"
                         
                      }
                   ]
@@ -100,24 +100,24 @@
                         "episodes":[
                            {
                              "id":"episode1",
-                             "name":"Episode 1 ",
+                             "name":"Episode 1 "
                              
                            },
                            {
                              "id":"episode2",
-                             "name":"Episode 2 ",
+                             "name":"Episode 2 "
                              
                            }
                        ]
                      },
                      {
                         "id":"afriayear2",
-                        "name":"Africa Y2",
-                        "experienceId":"afriayear2experience"
+                        "name":"Africa Y2"
+                        
                      },
                      {
                         "id":"incasyear2",
-                        "name":"The Incas Y2",
+                        "name":"The Incas Y2"
                         
                      }
                   ]
@@ -128,12 +128,12 @@
                   "experiences":[
                      {
                         "id":"additionyear2",
-                        "name":"Addition Y2",
+                        "name":"Addition Y2"
                         
                      },
                      {
                         "id":"fractionsyear2",
-                        "name":"Fractions Y2",
+                        "name":"Fractions Y2"
                         
                      }
                   ]
