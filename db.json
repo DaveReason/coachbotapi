@@ -163,15 +163,15 @@
       "playlist":[
          {
             "type":"audio",
-            "name":"Chapter 1",
+            "name":"Chapter 2",
             "synopsis":[
                "At home your sister wakes you up to get on with your daily chores",
                "She and your dad are preparing to go hunting after days with no food",
                "Dad tells you to stay home and do a cave painting for good luck on the hunt",
                "You demand to join the hunt group. Dad gives in but says your dog, Spark, must stay at home"
             ],
-            "audiourl":"https://d27ve52xk2ojxn.cloudfront.net/chapter1.mp3",
-            "audioname":"chapter1.mp3",
+            "audiourl":"https://d27ve52xk2ojxn.cloudfront.net/chapter2.mp3",
+            "audioname":"chapter2.mp3",
             "looping":false,
             "skippable":false,
             "length":"00:23:35"
@@ -191,15 +191,15 @@
          },
          {
             "type":"audio",
-            "name":"Chapter 2",
+            "name":"Chapter 1",
             "synopsis":[
                "At home your sister wakes you up to get on with your daily chores",
                "She and your dad are preparing to go hunting after days with no food",
                "Dad tells you to stay home and do a cave painting for good luck on the hunt",
                "You demand to join the hunt group. Dad gives in but says your dog, Spark, must stay at home"
             ],
-            "audiourl":"https://d27ve52xk2ojxn.cloudfront.net/chapter2.mp3",
-            "audioname":"chapter2.mp3",
+            "audiourl":"https://d27ve52xk2ojxn.cloudfront.net/chapter1.mp3",
+            "audioname":"chapter1.mp3",
             "looping":true,
             "skippable":true,
             "length":"00:23:35"
